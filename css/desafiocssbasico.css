@@ -1,0 +1,52 @@
+h2{
+    font-family:"Time NEw Roman"
+}
+
+
+
+#fundobranco{
+    width: 400px;
+	height: 200px;
+
+    background-image: url(imagens/desafio/backgorund.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+    border-width: medium;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-top-width: 10px;
+    border-right-width: 20px;
+    border-bottom-width: 55px;
+    border-left-width: 20px; 
+
+    padding: 1px 20px
+    
+}
+
+
+.link{
+    text-decoration-line: none;
+    color: black;
+}
+
+.link:active{
+    text-decoration-line: none;
+    color: black;
+}
+
+
+
+
+
+
+#instagram{
+    list-style-image: url(imagens/desafio/Insta.png);
+}
+#twitter{
+    list-style-image: url(imagens/desafio/Twitter.png);
+}
+#youtube{
+    list-style-image: url(imagens/desafio/Youtube.png);
+}
